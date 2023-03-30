@@ -39,7 +39,6 @@ p{
 .float-section{
     
     width: 32%;
-    border: 3px solid rgb(107, 255, 8);
     height: 100px;
     background-color: blue;
     float: left;
