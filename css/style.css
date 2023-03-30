@@ -22,3 +22,7 @@ body{
     color:#e52e6c;  
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+p{
+    margin: 10px 0px;
+    text-align: center;
+}
