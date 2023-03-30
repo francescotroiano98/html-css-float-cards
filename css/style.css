@@ -45,3 +45,15 @@ p{
     margin-left: 2%;
     margin-right: 2%;
 }
+.photo{
+    background-color: rgb(21, 28, 26);
+    width: 38%;
+    height: 100%;
+    float: left;
+}
+.content{
+    background-color: blueviolet;
+    width: 62%;
+    height: 100%;
+    float: left;
+}
