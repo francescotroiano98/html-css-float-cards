@@ -19,12 +19,13 @@ body{
     text-align: center;
 }
 #text-title{
-    color:#e52e6c;  
+    color:#e53170;  
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 p{
     margin-bottom: 20px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
 
@@ -39,7 +40,6 @@ p{
     
     width: 32%;
     height: 100px;
-    background-color: blue;
     float: left;
 }
 .float-section:nth-of-type(even){
@@ -55,7 +55,7 @@ p{
 }
 .content{
     padding: 20px 10px 10px 10px;
-    background-color: rgb(6, 14, 56);
+    background-color: #0f0e17;
     width: 70%;
     height: 100%;
     float: left;
@@ -75,7 +75,7 @@ h3{
 }
 span{
     font-size: 10px;
-    color: rgb(62, 123, 255);
+    color: #51c6e6;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
     
