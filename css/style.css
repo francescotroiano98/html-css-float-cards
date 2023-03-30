@@ -25,4 +25,22 @@ body{
 p{
     margin-bottom: 20px;
     text-align: center;
+    
+}
+
+.conteiner{
+    background-color: #e52e6c;
+    width: 100%;
+    height: 300px;
+}
+.float-section{
+    width: 32%;
+    border: 3px solid rgb(107, 255, 8);
+    height: 100px;
+    background-color: blue;
+    float: left;
+}
+.float-section:nth-of-type(even){
+    margin-left: 10px;
+    margin-right: 10px;
 }
