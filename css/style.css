@@ -24,12 +24,12 @@ body{
 }
 #text-title{
     color:#e53170;  
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Fredoka', sans-serif;
 }
 .descrizione{
     margin-bottom: 20px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Fredoka', sans-serif;
     
 }
 
@@ -63,16 +63,16 @@ body{
     width: 66%;
     height: 100%;
     float: left;
+    font-family: 'Fredoka', sans-serif;
 }
 .text-name{
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 17px;
+
+    font-size: 20px;
     margin-bottom: 5px;
 }
 .text-job{
     color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 10px;
     margin-bottom: 5px;
 
@@ -80,7 +80,7 @@ body{
 .text-email{
     font-size: 10px;
     color: #51c6e6;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
     
     
 }
